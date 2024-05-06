@@ -1,0 +1,93 @@
+body{
+    background-color: #d6dad8;
+}
+.parent {
+    overflow: auto;
+}
+.child_1{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #2b4888;
+    border-radius: 10px;
+    float: left;
+    text-align: center;
+    margin-left: 220px;
+}
+.child_1:hover{
+    background-color: #2b4888;
+}
+.child_2{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #2b4888;
+    border-radius: 10px;
+    float: left;
+    margin: 0px  50px ;
+    text-align: center;
+}
+.child_2:hover{
+    background-color: #2c753c;
+}
+.child_3{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #2b4888;
+    border-radius: 10px;
+    float: left;
+    text-align: center;
+}
+.child_3:hover{
+    background-color: #882b78;
+}
+a {
+    display: block;
+    margin-top: 30px ;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+.a1:hover{
+    color: rgb(155, 204, 247);
+}
+.a2:hover{
+    color: rgb(78, 211, 145);
+}
+.a3:hover{
+    color: rgb(233, 129, 202);
+}
+.btn_1:hover{
+    width: 85px;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: #0844c7;
+    color: aliceblue;
+}
+.btn_2:hover{
+    width: 85px;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(12, 219, 116);
+    color: aliceblue;
+}
+.btn_3:hover{
+    width: 85px;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(182, 20, 133);
+    color: aliceblue;
+}
+.title_1:hover{
+    font-size: 40px;
+    color: aliceblue;
+}
+.title_2:hover{
+    font-size: 40px;
+    color: aliceblue;
+}
+.title_3:hover{
+    font-size: 40px;
+    color: aliceblue;
+}
